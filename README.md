@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! 👋 Eu sou a Patricia Ferreira.
 
 - 🔭 I’m currently working on Compliance Solucoes
 - 🌱 I’m currently learning PL/SQL and Java
